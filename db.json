@@ -2,83 +2,27 @@
   "posts": [
     {
       "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "name": "oscar",
+      "phone":987654236,
+      "place":"chennai",
+      "vehicle": "auto",
+      "required":3,
     },
     {
       "id": 2,
-      "title": "what-bro",
-      "author": "mass"
+      "name": "oscar",
+      "phone":987654236,
+      "place":"chennai",
+      "vehicle": "auto",
+      "required":3,
     },
     {
       "id": 3,
-      "title": "mohana",
-      "author": "mass"
-    },
-    {
-      "id": 3,
-      "title": "mohana",
-      "author": "mass"
-    },
-    {
-      "author": "john",
-      "title": "newpost",
-      "id": 4
-    },
-    {
-      "author": "john",
-      "title": "newpost",
-      "id": 5
-    },
-    {
-      "author": "john",
-      "title": "newpost",
-      "id": 6
-    },
-    {
-      "author": "john",
-      "title": "newpost",
-      "id": 7
-    },
-    {
-      "author": "john",
-      "title": "newpost",
-      "id": 8
-    },
-    {
-      "author": "john",
-      "title": "newpost",
-      "id": 9
-    },
-    {
-      "author": "john",
-      "title": "newpost",
-      "id": 10
-    },
-    {
-      "author": "",
-      "title": "",
-      "id": 11
-    },
-    {
-      "author": "Bro",
-      "title": "John",
-      "id": 12
-    },
-    {
-      "author": "Bro",
-      "title": "John",
-      "id": 13
-    },
-    {
-      "author": "Bro",
-      "title": "John",
-      "id": 14
-    },
-    {
-      "author": "Bro",
-      "title": "John",
-      "id": 15
+      "name": "oscar",
+      "phone":987654236,
+      "place":"chennai",
+      "vehicle": "auto",
+      "required":3,
     }
   ]
 }
