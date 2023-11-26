@@ -7,22 +7,6 @@
       "place":"chennai",
       "vehicle": "auto",
       "required":3
-    },
-    {
-      "id": 2,
-      "name": "oscar",
-      "phone":987654236,
-      "place":"chennai",
-      "vehicle": "auto",
-      "required":3
-    },
-    {
-      "id": 3,
-      "name": "oscar",
-      "phone":987654236,
-      "place":"chennai",
-      "vehicle": "auto",
-      "required":3
     }
   ]
 }
