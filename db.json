@@ -1,12 +1,5 @@
 {
   "posts": [
-    {
-      "id": 1,
-      "name": "oscar",
-      "phone":987654236,
-      "place":"chennai",
-      "vehicle": "auto",
-      "required":3
-    }
+    
   ]
 }
